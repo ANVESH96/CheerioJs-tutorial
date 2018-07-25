@@ -3,8 +3,11 @@ This tutorial helps with basic concepts of scrapping data using cherriojs and no
  Clone / download the git repository
 ## run the following commands in the project directory
 npm i node-modules
+
 npm i cheerio
+
 npm i split-string
+
 npm i request
  
 Execute index.js file using " node index.js " , the output should be "Live Cricket Score ".
