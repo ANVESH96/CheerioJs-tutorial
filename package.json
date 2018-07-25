@@ -1,0 +1,26 @@
+{
+  "name": "cheeriojs-tutorial",
+  "version": "1.0.0",
+  "description": "CheerioJs-tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ANVESH96/CheerioJs-tutorial.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Cheeriojs"
+  ],
+  "author": "Anvesh Mekala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ANVESH96/CheerioJs-tutorial/issues"
+  },
+  "homepage": "https://github.com/ANVESH96/CheerioJs-tutorial#readme",
+  "dependencies": {
+    "node-modules": "^1.0.1"
+  }
+}
