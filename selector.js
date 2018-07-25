@@ -1,0 +1,1 @@
+//scarpe data using selectors such as classname, id, attributes

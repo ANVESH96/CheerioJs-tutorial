@@ -1,0 +1,1 @@
+//split-string method is used to split strings converted from cheerio using string -identifier
